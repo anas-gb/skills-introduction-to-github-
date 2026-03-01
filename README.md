@@ -28,7 +28,7 @@ Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-When copying the exercise, we recommend the following settings:
+When copying the exercise, we recommend the following settings: 
 
 - For owner, choose your personal account or an organization to host the repository.
 
